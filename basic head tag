@@ -1,0 +1,16 @@
+<head>
+     <meta charset="UTF-8">
+     <title>Title of your Page Here</title>
+     <meta name="description" content="What is your site about">
+     <meta name="keywords" content="what are keywords in your site">
+     <meta name="author" content="who owns or authors this page">
+
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<!-- The viewport is the user's visible area of a web page. It varies with the device, and will be smaller on a mobile phone than on a computer screen.
+
+The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser. -->
+
+</head>
+
